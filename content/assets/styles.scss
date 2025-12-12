@@ -1,0 +1,14 @@
+// Use GOV.UK Frontend
+$_font-family: system-ui, sans-serif;
+@use "pkg:govuk-frontend/dist/govuk" with (
+  $govuk-font-family: $_font-family,
+  // $govuk-new-typography-scale: true,
+  $govuk-brand-colour: blue,
+  $govuk-link-colour: mediumblue,
+  $govuk-link-hover-colour: darkblue,
+  $govuk-link-visited-colour: indigo,
+  // $govuk-page-width: 1140px
+);
+
+// Use GOV.UK Eleventy Plugin components
+@use "pkg:@x-govuk/govuk-eleventy-plugin";

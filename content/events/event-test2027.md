@@ -1,14 +1,14 @@
 ---
 layout: event
-title: ATProto Science Workshop
-description: ATmosphereConf is the global AT Protocol community conference. Join us in Vancouver, BC, Canada, March 2026 at the UBC campus. Come early for two days of extended events, deep dives, and local activities, then gather for two full conference days with topics for everyone.
-startdate: 2026-03-26
-enddate: 2026-03-29
-city: Vancouver
-country: Canada
+title: Test Event Science Workshop
+description: This is a test event for demonstration purposes only. An experimental gathering exploring decentralized science in Berlin's vibrant research community.
+startdate: 2026-04-06
+enddate: 2026-04-09
+city: Berlin
+country: Germany
 date: 2025-12-11
 eleventyNavigation:
-  key: ATProto Science Workshop
+  key: Test Event Science Workshop
   parent: Events
   order: 2
 image:
@@ -33,111 +33,100 @@ related:
           href: mailto:hello@atproto.science
 ---
 
-<!-- ![Gustopher is on stage in front of a red curtain.](/assets/images/event-atmosphere2026.png) -->
-
 ## Key Info
-**March 26-29, 2026**
-AMS Student Nest
-6133 University Blvd,
-Vancouver, BC V6T 1Z1,
-Canada
+**April 6-9, 2026**
+Berlin Innovation Hub
+Unter den Linden 6,
+10117 Berlin,
+Germany
 
-View on [Google Maps](https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6) | [Apple Maps](https://maps.apple.com/place?address=3500%20%E2%80%93%206133%20University%20Blvd%0AVancouver%20BC%20V6T%201Z1%0ACanada&coordinate=49.266600,-123.249961&name=AMS%20Student%20Nest&place-id=IF05EC233BAAAD1D0&map=explore)
+View on [Google Maps](#) | [OpenStreetMap](#)
 
 ---
 
-Join us for a full-day exploration of science and research applications on the AT Protocol. Taking place as a side event to [AtmosphereConf 2026](https://ti.to/atmosphereconf/atmosphereconf2026) in Vancouver (March 26-29, 2026), this gathering will bring together researchers, developers, and builders who are using ATProto for science, education, and open knowledge work.
+> [!WARNING]
+> THIS IS A TEST EVENT - NOT A REAL GATHERING
 
-The event will feature keynote presentations, lightning talks, panel discussions, and demos showcasing projects across the AT Science ecosystem. From academic researchers using Bluesky in innovative ways to new infrastructure for collaborative research and credentialing, we'll explore how ATProto can support transformative new science applications.
+This is a demonstration event page showcasing the event template functionality. Imagine a small, experimental workshop hosted in Berlin bringing together European researchers interested in decentralized knowledge systems. The focus would be on hands-on collaboration, building prototypes, and connecting with Berlin's thriving open science community.
 
-## Speakers
+The hypothetical event would include unconference sessions, collaborative coding sprints, and informal discussions at local cafés. Participants would explore how ATProto could integrate with European research infrastructure and FAIR data principles.
 
-`Coming Soon`
+## Hypothetical Speakers
 
-## Want to Participate?
+- **Dr. Test McTesterson** - Fictional researcher in decentralized systems
+- **Sample Speaker** - Placeholder for template demonstration
+- **Demo Presenter** - Example participant profile
 
-Officia amet voluptate anim laboris ullamco ea amet reprehenderit ullamco do ut eiusmod ad reprehenderit commodo consectetur officia labore veniam
+## Participation
 
-[Submit the Application Form ->](#)
+**Note: This is not a real event.** If this were a real workshop, participants would be invited to propose unconference sessions, share their work-in-progress, and collaborate on experimental prototypes.
 
-## Want to Attend?
+<div style="border: 1px solid #b1b4b6; padding: 20px; min-height: 600px;">
+<iframe src="https://tally.so/embed/Zj8K0o?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" title="Test Event Registration"></iframe>
+</div>
+
+[Template Demo Link ->](#)
+
+## Registration
 
 > [!WARNING]
-> **A ticket for AtmosphereConf event is required to attend ATScience in-person.**
-> - Tickets for remote attendance will be free of charge
-> - Registration is still required for planning purposes.
->
-> **[Purchase AtmosphereConf ticket ->](#)**
+> **THIS IS A TEST EVENT PAGE**
+> - This event does not exist
+> - All content is for demonstration purposes
+> - No registration is actually available
 
-## Schedule
+## Sample Schedule
 
-`Coming Soon`
+**Day 1 - Kickoff**
+- 09:00 - Hypothetical welcome session
+- 10:30 - Example unconference planning
+
+**Day 2-3 - Collaboration Sprints**
+- All day - Imaginary coding and discussion sessions
+
+**Day 4 - Wrap-up**
+- 14:00 - Fictional demo presentations
+- 16:00 - Test event conclusion
 
 ## FAQ
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Do I need to attend ATmosphereConf to participate in the ATProto Science event?</span>
+<span class="govuk-details__summary-text">Is this a real event?</span>
 </summary>
 
 <div class="govuk-details__text">
-Yes, for in-person attendance, a ticket to the main ATmosphereConf event is required. However, we're offering free remote attendance options - you'll just need to register so we can plan accordingly.
+No, this is a test event page created to demonstrate the event template functionality. It showcases how event information would be displayed on the site.
 </div>
 </details>
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">What topics will be covered at the event?</span>
+<span class="govuk-details__summary-text">What is the purpose of this test page?</span>
 </summary>
 
 <div class="govuk-details__text">
-We'll explore a wide range of science applications on ATProto, including:
-- Academic research and scholarly communication on Bluesky
-- Infrastructure for collaborative research and peer review
-- Credentialing and reputation systems for researchers
-- Open knowledge sharing and citizen science
-- Tools for thought integrations (Obsidian, Notion, Roam)
-- AI applications for scientific work
+This page demonstrates the custom event layout, including automatic date and location formatting in the hero area, event-specific content structure, integration with the site's navigation, and example FAQ and schedule sections.
 </div>
 </details>
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Can I present my project or research?</span>
+<span class="govuk-details__summary-text">Why Berlin?</span>
 </summary>
 
 <div class="govuk-details__text">
-Absolutely! We're planning lightning talks, demos, and panel discussions. If you're working on science-related applications using ATProto, we'd love to hear from you. Stay tuned for our call for proposals, or reach out directly at [hello@atproto.science](mailto:hello@atproto.science).
+Berlin was chosen as the test location because it's a major European research hub with a vibrant open science and tech community. This provides a different geographic and cultural context compared to the Vancouver-based ATmosphereConf event.
 </div>
 </details>
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">I'm not an academic researcher - can I still attend?</span>
+<span class="govuk-details__summary-text">Can I use this template for my own event?</span>
 </summary>
 
 <div class="govuk-details__text">
-Yes! We interpret "science" broadly to include citizen scientists, independent researchers, tool builders, and anyone engaged in systematic inquiry. Whether you're developing infrastructure, building apps, or just curious about the intersection of research and decentralized protocols, you're welcome.
-</div>
-</details>
-
-<details class="govuk-details">
-<summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Will sessions be recorded?</span>
-</summary>
-
-<div class="govuk-details__text">
-We plan to record sessions and make them available to the community after the event. Details on recording and distribution will be announced closer to the event date.
-</div>
-</details>
-
-<details class="govuk-details">
-<summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">How can I stay updated about the event?</span>
-</summary>
-
-<div class="govuk-details__text">
-Follow [@atproto.science](http://bsky.app/profile/atproto.science) on Bluesky, subscribe to our [ATProto Science feed](https://bsky.app/profile/atproto.science/feed/ATProto-Science), or join the discussion on our [Discourse forum](https://discourse.atprotocol.community/c/atproto-science/22/none).
+Yes! This demonstrates the event layout template. To create your own event, copy this structure and replace the test content with your actual event details including startdate, enddate, city, country, and description.
 </div>
 </details>
 

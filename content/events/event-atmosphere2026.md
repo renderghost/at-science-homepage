@@ -6,6 +6,9 @@ startdate: 2026-03-26
 enddate: 2026-03-29
 city: Vancouver
 country: Canada
+startButton:
+  href: "#"
+  text: Get Ticket
 eleventyNavigation:
   key: ATmosphereConf - Mar 2026
   parent: Events

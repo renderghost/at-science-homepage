@@ -10,7 +10,7 @@ pagination:
   size: 10
 related:
   sections:
-    - title: ATproto.science on the web
+    - title: ATScience on the web
       items:
         - text: Follow our BlueSky account
           href: http://bsky.app/profile/atproto.science

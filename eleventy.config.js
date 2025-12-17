@@ -23,17 +23,17 @@ export default function(eleventyConfig) {
           href: '/'
         },
         {
-          text: 'Projects',
-          href: '/projects'
-        },
-        {
           text: 'Events',
           href: '/events'
         },
         {
           text: 'People',
           href: '/people'
-        }
+        },
+        {
+          text: 'Projects',
+          href: '/projects'
+        },
 
       ]
     },

@@ -1,7 +1,7 @@
 ---
 layout: event
-title: ATScience2026
-description: Join ATScience2026, a full-day scientific exploration on AT Protocol in Vancouver, March 27, 2026. A side event to AtmosphereConf2026 bringing together researchers, developers, and builders using ATProto for science, education, and open knowledge. Features keynotes, lightning talks, panel discussions, and demos showcasing innovative projects in the AT Science ecosystem.
+title: ATScience 2026
+description: Join ATScience 2026, a full-day scientific exploration on AT Protocol in Vancouver, March 27, 2026. A side event to AtmosphereConf2026 bringing together researchers, developers, and builders using ATProto for science, education, and open knowledge. Features keynotes, lightning talks, panel discussions, and demos showcasing innovative projects in the AT Science ecosystem.
 startdate: 2026-03-27
 # enddate: 2026-03-29
 city: Vancouver
@@ -10,7 +10,7 @@ country: Canada
 #   href: "https://ti.to/atmosphereconf/atmosphereconf2026"
 #   text: Purchase Ticket
 eleventyNavigation:
-  key: ATScience2026
+  key: ATScience 2026
   parent: Events
   order: 1
 image:
@@ -54,16 +54,12 @@ View on <a href="https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6" target="_blank">Goog
 
 ---
 
-## Speakers
+## Attend ATScience 2026
 
-`Coming Soon`
-
-## Attend ATScience2026
-
-To attend in person at ATScience2026, you'll need a ticket to the main AtmosphereConf2026 event. Your conference pass grants access to all official side events, including our science-focused sessions throughout the week.
+To attend in person at ATScience 2026, you'll need a ticket to the main AtmosphereConf2026 event. Your conference pass grants access to all official side events, including our science-focused sessions throughout the week.
 
 > [!WARNING]
-> A ticket for **AtmosphereConf2026** is required if you plan to attend ATScience2026 **in-person**.
+> A ticket for **AtmosphereConf2026** is required if you plan to attend ATScience 2026 **in-person**.
 >
 > **<a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">Purchase AtmosphereConf2026 ticket</a>**
 
@@ -72,13 +68,17 @@ To attend in person at ATScience2026, you'll need a ticket to the main Atmospher
 >
 > **<a href="#" target="_blank">Register for Online-only Tickets</a>** -->
 
-## Present at ATScience2026
+## Present at ATScience 2026
 
 Want to present your work, lead a discussion, or demo your project? We're looking for contributors across all areas of science on ATProto—from academic research tools to citizen science platforms.
 
 **<a href="https://tally.so/r/Zj8K0o" target="_blank">Submit your Proposal</a>**
 
-## Schedule
+## Speakers
+
+`Coming Soon`
+
+## Agenda
 
 `Coming Soon`
 
@@ -86,7 +86,7 @@ Want to present your work, lead a discussion, or demo your project? We're lookin
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Do I need to attend ATmosphereConf to attend in the ATScience2026 event?</span>
+<span class="govuk-details__summary-text">Do I need to attend ATmosphereConf to attend in the ATScience 2026 event?</span>
 </summary>
 
 <div class="govuk-details__text">
@@ -96,11 +96,11 @@ Yes, for in-person attendance, a ticket to the main ATmosphereConf event is requ
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Do I need to attend AtmosphereConf2026 to present in the ATScience2026 event?</span>
+<span class="govuk-details__summary-text">Do I need to attend AtmosphereConf2026 to present in the ATScience 2026 event?</span>
 </summary>
 
 <div class="govuk-details__text">
-Yes, a ticket to the main AtmosphereConf2026 event is required to present at ATScience2026, whether attending in-person or remotely.
+Yes, a ticket to the main AtmosphereConf2026 event is required to present at ATScience 2026, whether attending in-person or remotely.
 </div>
 </details>
 

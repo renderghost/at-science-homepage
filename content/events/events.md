@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Community Events
+title: Events
 order: 3
 eleventyNavigation:
   key: Events
@@ -24,11 +24,9 @@ eleventyComputed:
   aside:
     title: Stay Connected
     content: |
-      Check out our upcoming and past events below, and follow us on [@atproto.science 🦋](http://bsky.app/profile/atproto.science) to stay informed about future opportunities to participate.
+      Check out our events below, and follow [🦋 @atproto.science](http://bsky.app/profile/atproto.science) to stay informed about opportunities to participate.
 ---
 
-## Stay connected with the ATProto Science community through our workshops, conferences, and gatherings.
-
-We bring together researchers, developers, and independent scholars to explore new possibilities for science on ATProto.
+Stay connected with the ATProto Science community through our workshops, conferences, and gatherings. We bring together researchers, developers, and independent scholars to explore new possibilities for science on ATProto.
 
 

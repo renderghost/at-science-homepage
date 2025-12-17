@@ -1,35 +1,14 @@
 ---
 layout: collection
-title: Community
+title: People
 order: 2
 eleventyNavigation:
-  key: Community
+  key: People
   order: 2
-paginationHeading: Browse Community
+paginationHeading: Browse People
 pagination:
-  data: people
+  data: collections.people
   size: 10
-people:
-  - url: "https://bsky.app/profile/ronentk.me"
-    date: 2025-12-17
-    data:
-      title: Ronen Tamari
-      description: Co-founder, Cosmik Network and Semble.so
-  - url: "https://bsky.app/profile/tgoerke.bsky.social"
-    date: 2025-12-17
-    data:
-      title: Torsten Goerke
-      description: Community Organiser
-  - url: "https://bsky.app/profile/renderg.host"
-    date: 2025-12-17
-    data:
-      title: Barry Prendergast
-      description: Creator of Lanyards.app
-  - url: "https://bsky.app/profile/mathewlowry.bsky.social"
-    date: 2025-12-17
-    data:
-      title: Mathew Lowry
-      description: Science communicator & information architect with 30 years experience in innovating online. Co-founder, ATconnect.eu
 related:
   sections:
     - title: ATproto.science on the web

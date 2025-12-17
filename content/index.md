@@ -9,7 +9,7 @@ startButton:
   href: "#"
   text: Join Us
 # image:
-#   src: /assets/product-illustration.svg
+#   src: /assets/project-illustration.svg
 #   alt: Eleventy’s possum mascot hanging on a red balloon and floating above a laptop.
 #   hideOnMobile: true
 
@@ -17,12 +17,12 @@ related:
   sections:
     - title: Pages
       items:
-        - text: Products
-          href: /products
+        - text: Projects
+          href: /projects
         - text: Events
           href: /events
-        - text: Community
-          href: /community
+        - text: People
+          href: /people
         # - text: Post
         #   href: /post
 # eleventyComputed:
@@ -35,8 +35,8 @@ related:
 <div class="govuk-grid-row">
   <section class="govuk-grid-column-one-third-from-desktop">
     <h2 class="govuk-heading-m govuk-!-margin-bottom-2">
-      <a class="govuk-link govuk-link--no-visited-state" href="/community">
-         Community
+      <a class="govuk-link govuk-link--no-visited-state" href="/people">
+         People
       </a>
     </h2>
     <p class="govuk-body">
@@ -45,8 +45,8 @@ related:
   </section>
   <section class="govuk-grid-column-one-third-from-desktop">
     <h2 class="govuk-heading-m govuk-!-margin-bottom-2">
-      <a class="govuk-link govuk-link--no-visited-state" href="/products">
-        Products
+      <a class="govuk-link govuk-link--no-visited-state" href="/projects">
+        Projects
       </a>
     </h2>
     <p class="govuk-body">
@@ -89,8 +89,8 @@ That means:
 <!-- Apart from attending our [events](/events), we: -->
 
 - Connect with us on [Bluesky](https://bsky.app/profile/atproto.science) and check out the atproto.science Starter Pack, and the custom feeds we're developing there
-- Join the discussion on the [ATproto Community Discourse server](https://discourse.atprotocol.community/t/intros-and-kickoff-thread-for-atproto-x-science/156/3?u=mathewlowry.bsky.social)
-- Join the [Community](#)
+- Join the discussion on the [ATproto People Discourse server](https://discourse.atprotocol.community/t/intros-and-kickoff-thread-for-atproto-x-science/156/3?u=mathewlowry.bsky.social)
+- Join the [People](#)
 
 <!-- [Via this form](https://tally.so/r/Zj8K0o) you can: -->
 

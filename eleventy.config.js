@@ -23,16 +23,16 @@ export default function(eleventyConfig) {
           href: '/'
         },
         {
-          text: 'Products',
-          href: '/products'
+          text: 'Projects',
+          href: '/projects'
         },
         {
           text: 'Events',
           href: '/events'
         },
         {
-          text: 'Community',
-          href: '/community'
+          text: 'People',
+          href: '/people'
         }
 
       ]
@@ -41,7 +41,7 @@ export default function(eleventyConfig) {
       logotype: {
         text: 'atproto.science'
       },
-    //   productName: 'Lorem Ipsum productName',
+    //   projectName: 'Lorem Ipsum projectName',
     },
     footer: {
       logo: false,
@@ -117,9 +117,9 @@ export default function(eleventyConfig) {
       })
   )
 
-  eleventyConfig.addCollection('products', (collection) =>
+  eleventyConfig.addCollection('projects', (collection) =>
     collection
-      .getFilteredByGlob(['content/products/product-*.md'])
+      .getFilteredByGlob(['content/projects/project-*.md'])
       .sort((a, b) => a.data?.title?.localeCompare(b.data?.title) || 0)
   )
 
@@ -132,6 +132,12 @@ export default function(eleventyConfig) {
         const dateB = b.data?.date ? new Date(b.data.date) : new Date(0)
         return dateB - dateA
       })
+  )
+
+  eleventyConfig.addCollection('people', (collection) =>
+    collection
+      .getFilteredByGlob(['content/people/people-*.md'])
+      .sort((a, b) => a.data?.title?.localeCompare(b.data?.title) || 0)
   )
 
   return {

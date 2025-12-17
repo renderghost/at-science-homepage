@@ -32,7 +32,7 @@ This site uses [Eleventy](https://www.11ty.dev/) with the [GOV.UK Eleventy Plugi
 
 The site automatically generates collection pages for:
 - **Events** - `content/events/event-*.md`
-- **Products** - `content/products/product-*.md`
+- **Projects** - `content/projects/project-*.md`
 - **News** - `content/news/news-*.md`
 
 ## Creating Events
@@ -122,7 +122,7 @@ Events are automatically sorted by date (most recent first) on the events index 
 - Store images in `content/events/images/` for organization
 - Use collapsible `<details>` sections for FAQs
 
-## Creating Products
+## Creating Projects
 
 Coming soon...
 

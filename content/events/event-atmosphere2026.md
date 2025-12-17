@@ -1,16 +1,16 @@
 ---
 layout: event
-title: ATProtoScience at AtmosphereConf2026
-description: ATmosphereConf is the global AT Protocol community conference. Join us in Vancouver, BC, Canada, March 2026 at the UBC campus. Come early for two days of extended events, deep dives, and local activities, then gather for two full conference days with topics for everyone.
-startdate: 2026-03-26
-enddate: 2026-03-29
+title: ATScience2026
+description: Join ATScience2026, a full-day scientific exploration on AT Protocol in Vancouver, March 27, 2026. A side event to AtmosphereConf2026 bringing together researchers, developers, and builders using ATProto for science, education, and open knowledge. Features keynotes, lightning talks, panel discussions, and demos showcasing innovative projects in the AT Science ecosystem.
+startdate: 2026-03-27
+# enddate: 2026-03-29
 city: Vancouver
 country: Canada
-startButton:
-  href: "https://ti.to/atmosphereconf/atmosphereconf2026"
-  text: Purchase Ticket
+# startButton:
+#   href: "https://ti.to/atmosphereconf/atmosphereconf2026"
+#   text: Purchase Ticket
 eleventyNavigation:
-  key: ATProtoScience at AtmosphereConf2026
+  key: ATScience2026
   parent: Events
   order: 1
 image:
@@ -18,14 +18,14 @@ image:
   alt: Gustopher is on stage in front of a red curtain.
   opengraphImage: true
 author:
-  - name: ATproto.science
+  - name: ATScience
     url: '/'
-date: 2025-12-11
+date: 2026-03-27
 
 showPagination: true
 related:
   sections:
-    - title: ATproto.science on the web
+    - title: ATScience on the web
       items:
         - text: Follow our BlueSky account
           href: http://bsky.app/profile/atproto.science
@@ -37,17 +37,14 @@ related:
           href: mailto:hello@atproto.science
 ---
 
-Join us for a full-day exploration of science and research applications on the AT Protocol. Taking place as a side event to <a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">AtmosphereConf 2026</a> in Vancouver (March 26-29, 2026), this gathering will bring together researchers, developers, and builders who are using ATProto for science, education, and open knowledge work.
+**Join us for a full-day of scientific explorations on the AT Protocol.**
+
+Taking place as a side event to <a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">AtmosphereConf2026</a> in Vancouver (March 27, 2026), this gathering will bring together researchers, developers, and builders who are using ATProto for science, education, and open knowledge work.
 
 The event will feature keynote presentations, lightning talks, panel discussions, and demos showcasing projects across the AT Science ecosystem. From academic researchers using Bluesky in innovative ways to new infrastructure for collaborative research and credentialing, we'll explore how ATProto can support transformative new science applications.
 
-> [!WARNING]
-> A ticket for **AtmosphereConf2026** is required if you plan to attend ATprotocol.science events **in-person**.
->
-> **<a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">Purchase AtmosphereConf2026 ticket</a>**
-
-## Key Info
-**March 26-29, 2026**
+## Event Info
+**March 27, 2026**
 AMS Student Nest
 6133 University Blvd,
 Vancouver, BC V6T 1Z1,
@@ -61,22 +58,23 @@ View on <a href="https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6" target="_blank">Goog
 
 `Coming Soon`
 
-## Attend ATProtoScience at AtmosphereConf2026
+## Attend ATScience2026
 
-To attend in person at the ATProto Science gathering, you'll need to purchase a ticket to the main AtmosphereConf 2026 event. Your conference pass grants access to all official side events, including our science-focused sessions throughout the week.
+To attend in person at ATScience2026, you'll need a ticket to the main AtmosphereConf2026 event. Your conference pass grants access to all official side events, including our science-focused sessions throughout the week.
 
-**<a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">Purchase AtmosphereConf2026 ticket</a>**
-
-### Attending online-only?
-
-> [!TIP]
-> Tickets for online-only attendance are free of charge, but registration is required for planning purposes.
+> [!WARNING]
+> A ticket for **AtmosphereConf2026** is required if you plan to attend ATScience2026 **in-person**.
 >
-> **<a href="#" target="_blank">Register for Online-only Tickets</a>**
+> **<a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">Purchase AtmosphereConf2026 ticket</a>**
 
-## Participate in ATProtoScience at AtmosphereConf2026
+<!-- > [!TIP] Attending online-only?
+> Tickets for online-only attendance are free of charge.
+>
+> **<a href="#" target="_blank">Register for Online-only Tickets</a>** -->
 
-Want to present your work, lead a discussion, or demo your project? We're looking for contributors across all areas of science on ATProto—from academic research tools to citizen science platforms. Submit your proposal to join our speaker lineup.
+## Present at ATScience2026
+
+Want to present your work, lead a discussion, or demo your project? We're looking for contributors across all areas of science on ATProto—from academic research tools to citizen science platforms.
 
 **<a href="https://tally.so/r/Zj8K0o" target="_blank">Submit your Proposal</a>**
 
@@ -88,11 +86,21 @@ Want to present your work, lead a discussion, or demo your project? We're lookin
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Do I need to attend ATmosphereConf to participate in the ATProto Science event?</span>
+<span class="govuk-details__summary-text">Do I need to attend ATmosphereConf to attend in the ATScience2026 event?</span>
 </summary>
 
 <div class="govuk-details__text">
-Yes, for in-person attendance, a ticket to the main ATmosphereConf event is required. However, we're offering free remote attendance options - you'll just need to register so we can plan accordingly.
+Yes, for in-person attendance, a ticket to the main ATmosphereConf event is required.
+</div>
+</details>
+
+<details class="govuk-details">
+<summary class="govuk-details__summary">
+<span class="govuk-details__summary-text">Do I need to attend AtmosphereConf2026 to present in the ATScience2026 event?</span>
+</summary>
+
+<div class="govuk-details__text">
+Yes, a ticket to the main AtmosphereConf2026 event is required to present at ATScience2026, whether attending in-person or remotely.
 </div>
 </details>
 
@@ -118,7 +126,7 @@ We'll explore a wide range of science applications on ATProto, including:
 </summary>
 
 <div class="govuk-details__text">
-Absolutely! We're planning lightning talks, demos, and panel discussions. If you're working on science-related applications using ATProto, we'd love to hear from you. Stay tuned for our call for proposals, or reach out directly at <a href="mailto:hello@atproto.science" target="_blank">hello@atproto.science</a>.
+Absolutely! We're planning lightning talks, demos, and panel discussions. If you're working on science-related applications using ATProto, we'd love to hear from you.
 </div>
 </details>
 

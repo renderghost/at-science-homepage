@@ -21,26 +21,26 @@ related:
           href: /products
         - text: Events
           href: /events
-        # - text: Members
-        #   href: /page-with-sub-navigation
+        - text: Community
+          href: /community
         # - text: Post
         #   href: /post
-eleventyComputed:
-  aside:
-    title: Latest News
-    content: |
-      Lorem Ipsum News.
+# eleventyComputed:
+#   aside:
+#     title: Latest News
+#     content: |
+#       Lorem Ipsum News.
 ---
 
 <div class="govuk-grid-row">
   <section class="govuk-grid-column-one-third-from-desktop">
     <h2 class="govuk-heading-m govuk-!-margin-bottom-2">
-      <a class="govuk-link govuk-link--no-visited-state" href="#">
-         News
+      <a class="govuk-link govuk-link--no-visited-state" href="/community">
+         Community
       </a>
     </h2>
     <p class="govuk-body">
-      Learn about the team behind ATProto Science and our mission to foster an inclusive research ecosystem on ATProto.
+      Meet the people building and organizing the ATProto Science community, from researchers and developers to community organizers.
     </p>
   </section>
   <section class="govuk-grid-column-one-third-from-desktop">
@@ -86,25 +86,15 @@ That means:
 
 ## Get involved, learn more
 
-Apart from attending our [events](/events), we:
+<!-- Apart from attending our [events](/events), we: -->
 
 - Connect with us on [Bluesky](https://bsky.app/profile/atproto.science) and check out the atproto.science Starter Pack, and the custom feeds we're developing there
 - Join the discussion on the [ATproto Community Discourse server](https://discourse.atprotocol.community/t/intros-and-kickoff-thread-for-atproto-x-science/156/3?u=mathewlowry.bsky.social)
--
+- Join the [Community](#)
 
+<!-- [Via this form](https://tally.so/r/Zj8K0o) you can: -->
 
-[Via this form](https://tally.so/r/Zj8K0o) you can:
-
-- register to any of our upcoming events
-- submit your profile for the above custom feed
-- submit content to this website's [People](https://experiments.myhub.ai/at-science-homepage/content/people/people) and [projects](https://experiments.myhub.ai/at-science-homepage/content/products/projects) pages
-<!-- - subscribe to our newsletter. -->
-
-Alternatively, simply contact us (FAQ: How can I contact you?).
-
-
-
-## Themes & Interests
+<!-- ## Themes & Interests
 
 We interpret science broadly — not just traditional academic research, but any form of systematic inquiry, including work by citizen scientists, independent researchers, and self-defined scholars. We're exploring a range of approaches to building this inclusive research ecosystem on ATProto:
 
@@ -116,9 +106,9 @@ We interpret science broadly — not just traditional academic research, but any
 - ATProto integrations for tools for thought like Obsidian, Notion or Roam.
 - Decentralized infrastructure for hosting science data and services
 
-This is an evolving space, and we're actively learning from the community about what tools and services would be most valuable for research on Bluesky/ATProto. Please join the discussion!
+This is an evolving space, and we're actively learning from the community about what tools and services would be most valuable for research on Bluesky/ATProto. Please join the discussion! -->
 
-## About us
+<!-- ## About us
 
 ATProto Science is an initiative led by:
 
@@ -136,4 +126,4 @@ ATProto Science is an initiative led by:
 ### Barry Prendergast
 - [Homepage](https://links.renderg.host/)
 - [@renderg.host](https://bsky.app/profile/renderg.host)
-- [Lanyards.app](https://lanyards.app/)
+- [Lanyards.app](https://lanyards.app/) -->

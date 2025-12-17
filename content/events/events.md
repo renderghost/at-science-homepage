@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: sdf
+title: Community Events
 order: 3
 eleventyNavigation:
   key: Events

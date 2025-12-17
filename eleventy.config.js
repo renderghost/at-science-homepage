@@ -29,7 +29,12 @@ export default function(eleventyConfig) {
         {
           text: 'Events',
           href: '/events'
+        },
+        {
+          text: 'Community',
+          href: '/community'
         }
+
       ]
     },
     header: {

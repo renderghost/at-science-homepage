@@ -1,8 +1,8 @@
 ---
 layout: event
 title: ATScience 2026
-description: A full-day exploration of AT Protocol for science, education, and open knowledge. A side event to AtmosphereConf2026 Vancouver, March 27, 2026,  
-startdate: 2026-03-27
+description: A full-day exploration of AT Protocol for science, education, and open knowledge. A side event to AtmosphereConf2026 @ Vancouver, March 27, 2026,  
+startdate: 2026-03-28 # strangely the displayed date is a day behind (so now it's March 27)
 # enddate: 2026-03-29
 city: Vancouver
 country: Canada
@@ -56,10 +56,10 @@ View on <a href="https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6" target="_blank">Goog
 
 ## Attend ATScience 2026
 
-To attend in person at ATScience 2026, you'll need a ticket to the main AtmosphereConf2026 event. Your conference pass grants access to all official side events, including ATScience.
+**⚠️ To attend in-person at ATScience 2026, you'll need a ticket to the main AtmosphereConf2026 event.** Your conference pass grants access to all official side events, including ATScience.
 
-> [!WARNING]
-> A ticket for **AtmosphereConf2026** is required if you plan to attend ATScience 2026 **in-person**.
+<!-- > [!WARNING]
+> A ticket for **AtmosphereConf2026** is required if you plan to attend ATScience 2026 **in-person**. -->
 
 <tito-widget event="atmosphereconf/atmosphereconf2026" releases="early-bird,atscience"></tito-widget>
 

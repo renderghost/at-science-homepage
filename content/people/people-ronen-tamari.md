@@ -1,7 +1,7 @@
 ---
 layout: product
 title: Ronen Tamari
-description: Collective intelligence researcher and entrepreneur. Co-founder of Cosmik. Building <a href="https://semble.so/" target="_blank">Semble</a>, a social knowledge network for researchers on ATProto.
+description: Collective intelligence researcher and entrepreneur. Co-founder of  <a href="https://cosmik.network/" target="_blank">Cosmik</a>. Building <a href="https://semble.so/" target="_blank">Semble</a>, a social knowledge network for researchers on ATProto.
 eleventyNavigation:
   key: Ronen Tamari
   parent: People

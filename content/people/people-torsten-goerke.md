@@ -18,8 +18,6 @@ related:
           href: https://social.toplap.org/@tgoerke
         - text: Nina Protocol
           href: https://www.ninaprotocol.com/profiles/torstengoerke
-        - text: LinkedIn
-          href: https://www.linkedin.com/in/torstengoerke/
 ---
 
 Computer science researcher at <a href="https://codip.tu-dresden.de/" target="_blank">CODIP</a> (Center for Open Digital Innovation and Participation), TU Dresden, focusing on data-driven empirical research methods. Co-organizer of ATProto x Science, exploring decentralized infrastructure for scholarly communication.

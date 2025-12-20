@@ -140,11 +140,15 @@ export default function(eleventyConfig) {
       .sort((a, b) => a.data?.title?.localeCompare(b.data?.title) || 0)
   )
 
+  // Path configuration for different deployment scenarios:
+  const pathPrefix = '/' // (un)comment this line deployment to production or localhost
+  // const pathPrefix = '/at-science-homepage/' // (un)comment this line GitHub Pages deployment
+
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
-    pathPrefix: process.env.ELEVENTY_ENV === 'production' ? '/at-science-homepage/' : '/',
+    pathPrefix: pathPrefix,
     dir: {
       // The folder where all your content will live:
       input: 'content',

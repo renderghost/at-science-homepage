@@ -1,7 +1,7 @@
 ---
 layout: event
 title: ATScience 2026
-description: A full-day exploration of AT Protocol for science, education, and open knowledge. A side event to AtmosphereConf2026 @ Vancouver, March 27, 2026,  
+description: A full-day exploration of AT Protocol for science, education, and open knowledge. A side event to AtmosphereConf 2026 @ Vancouver, March 27, 2026,
 startdate: 2026-03-27 # strangely the displayed date on local is a day behind the deployed version!
 # enddate: 2026-03-29
 city: Vancouver
@@ -39,11 +39,11 @@ related:
 
 **Join us for a full-day of scientific explorations on the AT Protocol.**
 
-Taking place as a side event to <a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">AtmosphereConf2026</a> in Vancouver (March 27, 2026), this gathering will bring together researchers, developers, and builders who are using ATProto for science, education, and open knowledge work.
+Taking place as a side event to <a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">AtmosphereConf 2026</a> in Vancouver (March 27, 2026), this gathering will bring together researchers, developers, and builders who are using ATProto for science, education, and open knowledge work.
 
 The event will feature presentations, panel discussions, project demos and an unconference. From academic researchers using Bluesky in innovative ways to new infrastructure for collaborative research and credentialing, we'll explore how ATProto can support transformative new science applications.
 
-## Event Info
+### Event Info
 **March 27, 2026**
 AMS Student Nest
 6133 University Blvd,
@@ -52,24 +52,19 @@ Canada
 
 View on <a href="https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6" target="_blank">Google Maps</a> | <a href="https://maps.apple.com/place?address=3500%20%E2%80%93%206133%20University%20Blvd%0AVancouver%20BC%20V6T%201Z1%0ACanada&coordinate=49.266600,-123.249961&name=AMS%20Student%20Nest&place-id=IF05EC233BAAAD1D0&map=explore" target="_blank">Apple Maps</a>
 
----
-
 ## Attend ATScience 2026
 
-**⚠️ To attend in-person at ATScience 2026, you'll need a ticket to the main AtmosphereConf2026 event.** Your conference pass grants access to all official side events, including ATScience.
-
-<!-- > [!WARNING]
-> A ticket for **AtmosphereConf2026** is required if you plan to attend ATScience 2026 **in-person**. -->
+> [!WARNING]
+> **Buy an AtmosphereConf 2026 ticket is to attend ATScience 2026 in-person.**
+> The conference pass grants access to all official main and side events, including ATScience 2026.
 
 <tito-widget event="atmosphereconf/atmosphereconf2026" releases="early-bird,atscience"></tito-widget>
-
 <script src='https://js.tito.io/v2' async></script>
 
-<!-- > **<a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">Purchase AtmosphereConf2026 ticket</a>** -->
+**<a href="https://ti.to/atmosphereconf/atmosphereconf2026" target="_blank">More about AtmosphereConf 2026</a>**
 
 <!-- > [!TIP] Attending online-only?
 > Tickets for online-only attendance are free of charge.
->
 > **<a href="#" target="_blank">Register for Online-only Tickets</a>** -->
 
 ## Present at ATScience 2026
@@ -121,7 +116,7 @@ We’ll explore a wide range of science applications on ATProto, including:
 - Credentialing and reputation systems for researchers
 - Open knowledge sharing and citizen science
 - ATProto integrations with knowledge tools and reference managers (Obsidian, Notion, Zotero, etc)
-- Integrated AI and social media applications for science 
+- Integrated AI and social media applications for science
 </div>
 </details>
 
@@ -165,5 +160,3 @@ When you register to the event, we will add you to the event mailing list for im
 </div>
 </details>
 
-
----

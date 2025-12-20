@@ -39,7 +39,7 @@ related:
     </h2>
   </div>
   <div class="govuk-notification-banner__content">
-    <p class="govuk-body">Join us in Vancouver on March 27, 2026, for a full-day exploration of AT Protocol for science, education, and open knowledge. A side event to AtmosphereConf2026 (March 26-29, 2026).</p>
+    <p class="govuk-body">Join us in Vancouver on March 27, 2026, for a full-day exploration of AT Protocol for science, education, and open knowledge. A side event to AtmosphereConf 2026 (March 26-29, 2026).</p>
     <p class="govuk-body"><a class="govuk-link" href="/events/atmosphere2026">Learn more, register and apply to present your project &#8594;</a></p>
   </div>
 </div>

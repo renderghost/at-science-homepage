@@ -143,6 +143,32 @@ The site uses GOV.UK Design System with custom brand colors:
 
 The site generates static files in the `_site` directory which can be deployed to any static hosting service.
 
+### Path Configuration
+
+The site can be deployed in two different scenarios, controlled by the `pathPrefix` setting in `eleventy.config.js`:
+
+#### Serving on a Root Domain (e.g., https://atproto.science)
+
+When deploying to a root domain, use:
+
+```javascript
+const pathPrefix = '/' // For production on atproto.science
+```
+
+This is the current configuration. All assets and links will be served from the root of the domain.
+
+#### Serving on a Path (e.g., https://atproto-science.github.io/at-science-homepage/)
+
+When deploying to GitHub Pages or any other service where the site is served from a subdirectory, uncomment and use:
+
+```javascript
+const pathPrefix = '/at-science-homepage/' // For GitHub Pages deployment
+```
+
+Replace `/at-science-homepage/` with your specific path. This ensures all assets and internal links include the correct path prefix.
+
+**Note:** Local development always uses `/` regardless of the production configuration.
+
 ## Contributing
 
 For questions or contributions, reach out at [hello@atproto.science](mailto:hello@atproto.science)

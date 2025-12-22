@@ -55,7 +55,7 @@ View on <a href="https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6" target="_blank">Goog
 ## Attend ATScience 2026
 
 > [!WARNING]
-> **Buy an AtmosphereConf 2026 ticket is to attend ATScience 2026 in-person.**
+> **Buy an AtmosphereConf 2026 ticket to attend ATScience 2026 in-person.**
 > The conference pass grants access to all official main and side events, including ATScience 2026.
 
 <tito-widget event="atmosphereconf/atmosphereconf2026" releases="early-bird,atscience"></tito-widget>
@@ -85,7 +85,7 @@ Want to present your work, lead a discussion, or demo your project? We're lookin
 
 <details class="govuk-details">
 <summary class="govuk-details__summary">
-<span class="govuk-details__summary-text">Do I need to a ticket for ATmosphereConf to participate in the ATScience event?</span>
+<span class="govuk-details__summary-text">Do I need a ticket for ATmosphereConf to participate in the ATScience event?</span>
 </summary>
 
 <div class="govuk-details__text">

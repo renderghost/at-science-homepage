@@ -8,6 +8,8 @@ description: We're building communities and tech for publishing, curating, shari
 startButton:
   href: https://forms.atproto.science/join
   text: Join the community!
+  attributes:
+    target: _blank
 # image:
 #   src: /assets/project-illustration.svg
 #   alt: Eleventy’s possum mascot hanging on a red balloon and floating above a laptop.

@@ -71,7 +71,7 @@ View on <a href="https://maps.app.goo.gl/E9aHGnjVzs8rgfLL6" target="_blank">Goog
 
 Want to present your work, lead a discussion, or demo your project? We're looking for contributors across all areas of science on ATProto, from academic research to new knowledge tools or grassroots citizen science.
 
-**<a href="https://tally.so/r/5B4jvd" target="_blank">Submit your Proposal</a>**
+**<a href="https://forms.atproto.science/atscience26-proposals" target="_blank">Submit your Proposal</a>**
 
 ## Speakers
 
@@ -126,7 +126,7 @@ We’ll explore a wide range of science applications on ATProto, including:
 </summary>
 
 <div class="govuk-details__text">
-Absolutely! We're planning presentations, panel discussions, project demos and an unconference. If you're working on science-related topics using ATProto (see question above for example relevant topics), please <a href="https://tally.so/r/5B4jvd" target="_blank">submit a proposal</a>!
+Absolutely! We're planning presentations, panel discussions, project demos and an unconference. If you're working on science-related topics using ATProto (see question above for example relevant topics), please <a href="https://forms.atproto.science/atscience26-proposals" target="_blank">submit a proposal</a>!
 </div>
 </details>
 

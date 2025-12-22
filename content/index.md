@@ -2,8 +2,8 @@
 homepage: true
 layout: product
 
-title: Empower science with open, democratic infrastructure owned by researchers.
-description: We're building communities and tech for publishing, curating, sharing, and discussing academic research online using ATProto and other decentralized protocols.
+title: Empowering science communities with open, democratic, researcher-owned infrastructure.
+description: We're building communities and tech for publishing, curating, sharing, and discussing research online using ATProto and other decentralized protocols.
 
 startButton:
   href: https://tally.so/r/44BJ2k
